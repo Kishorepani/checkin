@@ -4,4 +4,4 @@ return x+y
 
 #Tom will implement
 def mult(x,y):
-return None
+return x*y

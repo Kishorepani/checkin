@@ -1,6 +1,6 @@
 # I will implement
 def add(x,y):
-return None
+return x+y
 
 #Tom will implement
 def mult(x,y):
